@@ -17,7 +17,6 @@ Feita em **Java 17+** com interface **Swing** e empacotamento nativo via **jpack
 - ⏸️ Pausar / Retomar o cronômetro
 - 🔄 Resetar para o tempo inicial
 - Interface simples e limpa
-- Feedback visual ao finalizar cada ciclo
 
 ---
 
@@ -41,7 +40,7 @@ Feita em **Java 17+** com interface **Swing** e empacotamento nativo via **jpack
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU_USUARIO/pomodoro-tracker.git
+git clone https://github.com/Richard-Prado/PomodoroTrackerr.git
 cd pomodoro-tracker
 
 # Execute a aplicação
